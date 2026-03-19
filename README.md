@@ -1,5 +1,8 @@
 # devops-capstone-project
 
+## Description
+This capstone project is a customer accounts microservice for an e-commerce platform. It provides a RESTful API to create, read, update, delete, and list customer accounts. The service is built with Python and Flask, uses a relational database to store customer names and addresses, and is designed to be deployed as a containerized microservice on Kubernetes.
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
