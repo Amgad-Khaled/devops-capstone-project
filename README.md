@@ -1,4 +1,5 @@
 # devops-capstone-project
+![Build Status](https://github.com/Amgad-Khaled/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Description
 This capstone project is a customer accounts microservice for an e-commerce platform. It provides a RESTful API to create, read, update, delete, and list customer accounts. The service is built with Python and Flask, uses a relational database to store customer names and addresses, and is designed to be deployed as a containerized microservice on Kubernetes.
